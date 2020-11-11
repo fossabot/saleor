@@ -36,6 +36,7 @@
   <a href="http://codecov.io/github/mirumee/saleor?branch=master">
     <img src="http://codecov.io/github/mirumee/saleor/coverage.svg?branch=master" alt="Codecov" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftortal42%2Fsaleor?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortal42%2Fsaleor.svg?type=shield"/></a>
   <a href="https://docs.saleor.io/">
     <img src="https://img.shields.io/badge/docs-docs.saleor.io-brightgreen.svg" alt="Documentation" />
   </a>
@@ -156,6 +157,9 @@ Fill out this short survey and help us grow. It will take just a minute, but mea
 Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/mirumee/saleor/blob/master/LICENSE). There are no hidden charges. We promise to do our best to fix bugs and improve the code.
 
 Some situations do call for extra code; we can cover exotic use cases or build you a custom e-commerce appliance.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortal42%2Fsaleor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftortal42%2Fsaleor?ref=badge_large)
 
 #### Crafted with ❤️ by [Mirumee Software](http://mirumee.com)
 
